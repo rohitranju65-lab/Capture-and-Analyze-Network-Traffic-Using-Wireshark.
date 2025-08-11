@@ -89,11 +89,7 @@ TCP handshake is a prerequisite for both HTTP and HTTPS communication.
 
 ---
 
-## 📂 Files Included
-- `network_capture.pcapng` – The exported Wireshark capture file.
-- `README.md` – This documentation.
 
----
 
 ## 🖼 Screenshot
 <img width="1920" height="1080" alt="w1" src="https://github.com/user-attachments/assets/31e65c77-b8d0-4e6b-80f5-592ddfc43cd6" />
